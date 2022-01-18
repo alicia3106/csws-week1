@@ -1,2 +1,5 @@
-for x in range(10):
-   print ("Hello world!" + str(x))
+message = "Hello python world"
+print(message)
+
+message = "Hello python crash course world"
+print(message)
